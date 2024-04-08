@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31cabcd-90b0-435e-8bd5-9a22d6739d39" name="Changes" comment="optimized LSTM model for A100 GPU, redid the embeddings and incorporated one-hot embeddings for the labels.">
-      <change afterPath="$PROJECT_DIR$/backend/Models/LSTM.keras" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/Models/LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Models/LSTM.ipynb" afterDir="false" />
+    <list default="true" id="d31cabcd-90b0-435e-8bd5-9a22d6739d39" name="Changes" comment="trained and saved LSTM model with A100 GPU, added graph of the LSTM metrics and the saved model file.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,9 @@
       <workItem from="1712169471519" duration="5926000" />
       <workItem from="1712265954561" duration="252000" />
       <workItem from="1712266246612" duration="7124000" />
-      <workItem from="1712328890990" duration="3491000" />
+      <workItem from="1712328890990" duration="5597000" />
+      <workItem from="1712537057570" duration="83000" />
+      <workItem from="1712539423019" duration="1700000" />
     </task>
     <task id="LOCAL-00001" summary="Initial file commits for each model and utility file.">
       <option name="closed" value="true" />
@@ -142,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712174206024</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="trained and saved LSTM model with A100 GPU, added graph of the LSTM metrics and the saved model file.">
+      <option name="closed" value="true" />
+      <created>1712342689219</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712342689219</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +211,7 @@
     <MESSAGE value="Implemented LSTM model" />
     <MESSAGE value="removed RNN notebook" />
     <MESSAGE value="optimized LSTM model for A100 GPU, redid the embeddings and incorporated one-hot embeddings for the labels." />
-    <option name="LAST_COMMIT_MESSAGE" value="optimized LSTM model for A100 GPU, redid the embeddings and incorporated one-hot embeddings for the labels." />
+    <MESSAGE value="trained and saved LSTM model with A100 GPU, added graph of the LSTM metrics and the saved model file." />
+    <option name="LAST_COMMIT_MESSAGE" value="trained and saved LSTM model with A100 GPU, added graph of the LSTM metrics and the saved model file." />
   </component>
 </project>
