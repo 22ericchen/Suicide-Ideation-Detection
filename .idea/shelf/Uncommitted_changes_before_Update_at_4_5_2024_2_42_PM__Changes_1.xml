@@ -1,9 +1,0 @@
-<changelist name="Uncommitted_changes_before_Update_at_4_5_2024_2_42_PM_[Changes]1" date="1712342570866" recycled="true" deleted="true">
-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_5_2024_2_42_PM_[Changes]1/shelved.patch" />
-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 4/5/2024 2:42 PM [Changes]" />
-  <binary>
-    <option name="BEFORE_PATH" />
-    <option name="AFTER_PATH" value="backend/Models/LSTM.keras" />
-    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_5_2024_2_42_PM_[Changes]1/LSTM.keras" />
-  </binary>
-</changelist>
