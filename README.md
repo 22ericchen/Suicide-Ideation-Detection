@@ -7,11 +7,14 @@ The notebooks containing our models are located within the backend directory und
 
 ## Starting Full-stack Application
 ### Starting the backend
+- download https://drive.google.com/drive/folders/1rvNHd5KAjbQiDnMtl5f0T6zr2vxvjcZG?usp=sharing and drag into backend folder
+- download https://drive.google.com/file/d/1weORXOlDyhuXr3-QJD_PgRowT1doh2kZ/view?usp=sharing and drag into backend folder
 - `pip install flask`
 - `cd backend`
 - Windows Powershell: `set FLASK_APP=app.py`
 - Windows Command Prompt: `$env:FLASK_APP = "app.py"`
 - MacOS/Linux: `export FLASK_APP=app.py`
+- `flask run`
 ### Starting the frontend
 - make sure Node.js is installed
 - `cd frontend`
