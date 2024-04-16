@@ -18,11 +18,11 @@ const Home = () => {
             Welcome to our Suicide Ideation Detection project!
           </Heading>
           <Text textAlign="center">
-            Placeholder placeholder placeholder placeholder placeholder
-            placeholder placeholder placeholder placeholder placeholder
-            placeholder placeholder placeholder placeholder.
+            This web app shows the results of training our three different
+            language models. You can also classify any input sentence and choose
+            which model to use!
           </Text>
-          <Text pt="100px" textAlign="center" fontSize="12px" color="nugray.50">
+          <Text pt="60px" textAlign="center" fontSize="12px" color="nugray.50">
             Created by Matthew Wang, Jessica Zhao, and Eric Chen
           </Text>
         </VStack>
